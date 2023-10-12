@@ -2,4 +2,4 @@
 
 Lake's CS2 Config
 
-suck ya mum
+Hit releases to find the latest config files
