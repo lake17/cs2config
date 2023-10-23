@@ -6,6 +6,4 @@ Hit releases to find the latest config files
 
 valvE?
 
-![alt text](https://prosettings.net/wp-content/uploads/best-cs2-settings-and-options.png)
-
-github version difference test :) another
+![alt text](https://github.com/lake17/cs2config/blob/main/readme.jpg?raw=true)
