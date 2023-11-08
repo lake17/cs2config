@@ -6,4 +6,4 @@ Recently massive update using - github.com/ArmynC/ArminC-AutoExec/ -
 
 valvE?
 
-![alt text](https://github.com/lake17/cs2config/blob/main/README.jpg)
+![alt text](https://github.com/lake17/cs2config/blob/main/README.png)
