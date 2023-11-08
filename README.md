@@ -2,7 +2,7 @@
 
 Lake's CS2 Config
 
-Hit releases to find the latest config files
+Recently massive update using - github.com/ArmynC/ArminC-AutoExec/ - 
 
 valvE?
 
